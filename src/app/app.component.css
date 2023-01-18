@@ -1,0 +1,187 @@
+*{
+    background-color: lightcoral;
+}
+
+header{
+    border-style: solid;
+    width: 1460px;
+    height: 100px;
+    position: relative;
+    float: left;
+    border-right: none;
+    border-left: none; 
+    
+    
+}
+
+#topic{
+    color: white;
+    bottom: 10px;
+    text-align: center;
+}
+
+#SPageLink{
+    border: solid black;
+    height: 30px;
+}
+
+h3 a{
+    color:red;
+    margin-left: 30px;
+    
+    
+}
+
+.PopT{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    width: 1290px;
+    height: 50px;
+    border-style:solid;
+    border-color: black;
+}
+
+.ClassicalT{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    width: 1290px;
+    height: 50px;
+    border-style:solid;
+    border-color: black;
+}
+
+
+
+.HipHopT{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    width: 1290px;
+    height: 50px;
+    border-style:solid;
+    border-color: black;
+}
+
+
+
+.AsianT{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    width: 1290px;
+    height: 50px;
+    border-style:solid;
+    border-color: black;
+}
+
+
+
+
+
+
+
+#MusicSearchId{
+    height: 20px;
+    width: 500px;
+    margin-left: 45px;
+    padding: 20px;
+    margin-top: 50px;
+}
+
+
+
+.Music{
+    margin-left: 50px;
+}
+
+#Pop1{
+    height: 168px;
+    margin-left: -5px;
+    width: 300px;
+}
+
+#Pop2{
+    margin-left: 30px;
+    width: 300px;
+}
+
+#pop3{
+    margin-left: 30px;
+    width: 300px;
+}
+#Pop4{
+    margin-left: 30px;
+    height: 168px;
+    width: 300px;
+}
+
+#CM1{
+   margin-left: -6px; 
+   height: 168px;
+   width: 305px; 
+}
+
+#CM2{
+    margin-left:30px; 
+    height: 168px;
+    width: 305px; 
+ }
+
+ #CM3{
+    margin-left:25px; 
+    height: 168px;
+    width: 305px; 
+ }
+
+ #CM4{
+    margin-left:28px; 
+    height: 168px;
+    width: 305px; 
+ }
+
+ #HHM1{
+    margin-left: -6px; 
+    height: 168px;
+    width: 305px; 
+ }
+
+ #HHM2{
+    margin-left:30px; 
+    height: 168px;
+    width: 305px; 
+ }
+
+ #HHM3{
+    margin-left:25px; 
+    height: 168px;
+    width: 305px;
+ }
+
+ #HHM4{
+    margin-left:28px; 
+    height: 168px;
+    width: 305px; 
+ }
+
+ #AM1{
+    margin-left: -6px; 
+    height: 168px;
+    width: 305px; 
+ }
+
+ #AM2{
+    margin-left:30px; 
+    height: 168px;
+    width: 305px; 
+ }
+
+ #AM3{
+    margin-left:25px; 
+    height: 168px;
+    width: 305px;
+ }
+
+ #AM4{
+    margin-left:28px; 
+    height: 168px;
+    width: 305px; 
+ }
+

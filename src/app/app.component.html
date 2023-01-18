@@ -1,0 +1,100 @@
+<h1>Hello World</h1>
+<input type="text" class="form-control">
+
+
+<header>
+    <div class="topic">
+       <h1 id="topic">Music Spot</h1>
+    </div>
+</header>
+
+ <!--Search Bar--> <!--Shows the availability and shows the search results on the home page-->
+ <form id="form">
+    <input type="search" id="MusicSearchId" name="MusicSearch" placeholder="Find your melody...">
+</form>
+
+
+<div id="SPageLink">
+    <a href="SongPage.html">Song page</a>
+</div>
+
+
+
+<!--Some pop music files-->
+<div class="Music">
+     <!--Pop Music--> <!--Goes to specific page-->
+    <div class="PopT">
+    <h3><a href="PopMusic.html" >Pop Music</a></h3>
+    </div>
+    <div class="Pop">
+        <img src="Pop1.jpg" id="Pop1">
+        <img src="Pop2.jpg" id="Pop2">
+        <img src="Pop3.jpg" id="Pop3">
+        <img src="Pop4.jpg" id="Pop4">
+    </div>
+        
+    
+
+
+
+<!--Classical Music--> <!--Goes to specific page-->
+<div class="ClassicalT">
+<h3><a href="ClassicalMusic.html">Classical Music</a></h3>
+</div>
+
+<!--Some Classical music files-->
+<div class="Classical">
+        <img src="CM1.jpg" id="CM1">
+        <img src="CM2.jpg" id="CM2">
+        <img src="CM3.jpg" id="CM3">
+        <img src="CM4.jpg" id="CM4">
+</div>    
+
+<!-- Hip hop--> <!--Goes to specific page-->
+
+<div class="HipHopT">
+<h3><a href="Hiphop.html">Hip Hop Music</a></h3>
+</div>
+
+<!--Some Hip hop music files-->
+<div class="HipHop">
+        <img src="HHM1.jpg" id="HHM1">
+        <img src="HHM2.jpg" id="HHM2">
+        <img src="HHM3.jpg" id="HHM3">
+        <img src="HHM4.jpg" id="HHM4">
+</div>
+
+<!--Asian Music--> <!--Goes to specific page-->
+<div class="AsianT">
+<h3><a href="AsianMusic.html">Asian Music</a></h3>
+</div>
+
+
+<!--Some asian Music files-->
+<div class="Asian">
+        <img src="AM1.jpg" id="AM1">
+        <img src="AM2.jpg" id="AM2">
+        <img src="AM3.jpg" id="AM3">
+        <img src="AM4.jpg" id="AM4">
+</div> 
+
+</div>
+
+
+<div>
+    <app-second></app-second>
+</div>
+
+<app-first></app-first>
+
+<div>
+    <router-outlet>
+        <a [routerLink]="['/song-page']"> 
+            Kasunka
+           
+        </a>
+
+    </router-outlet>
+   
+  
+</div>
