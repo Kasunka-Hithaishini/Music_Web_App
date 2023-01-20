@@ -25,3 +25,15 @@ app.listen(8080, () => {
     })
 })
 
+
+
+
+
+
+
+
+//@Injectable({
+ // providedIn: 'root'
+//})
+//export class ApiService {
+//private url = 'http://localhost:8080/api';

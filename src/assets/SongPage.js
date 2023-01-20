@@ -16,6 +16,10 @@ function myFunction2(){
 document.getElementsById("vid").innerHTML=Author;
 }
 
+function Retrieve(){
+   document.getElementById("DT").innerHTML=;
+}
+
 function Greet(){
     alert("Hee");
 }
