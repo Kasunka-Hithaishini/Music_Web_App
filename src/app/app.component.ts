@@ -8,4 +8,12 @@ import { Router } from '@angular/router';
 })
 export class AppComponent {
   title = 'Music_App';
+
+  constructor(private router:Router){}
+
+  redirect(pageName:string):void{
+    this.router.navigate([`${pageName}`]);
+  }
+
+
 }

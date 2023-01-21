@@ -1,0 +1,179 @@
+.Home{
+  background-color:lightseagreen;
+}
+
+header{
+position: relative;
+background-color:darkcyan;
+width: 100%;
+color: aliceblue;
+height: 20vh;
+margin-left: 0%;
+margin-right: 0%;
+border-style: solid;
+border-right: none;
+border-left: none;
+border: 1;
+border-color:lightcoral;
+
+}
+
+header h1{
+position: absolute;
+margin-top: 45px;
+left: 20%;
+color:springgreen;
+text-align: center;
+margin-left: 350px;
+}
+
+
+
+#MusicSearchId{
+height: 20px;
+width: 500px;
+margin-left: 20px;
+padding: 20px;
+margin-top: 50px;
+background-color: darkcyan;
+border-color: aqua;
+
+}
+
+::placeholder{
+color:mediumspringgreen;
+}
+
+.Music{
+margin-left: 20px;
+}
+
+.PopT{
+margin-top: 3%;
+border-style: solid;
+border-right: none;
+border-left: none;
+border: 1;
+margin-left: 50;
+margin-right: 50;
+width: 1400px;
+position: relative;
+border-color:navy;
+}
+
+.ClassicalT{
+margin-top: 5px;
+border-style: solid;
+border-right: none;
+border-left: none;
+border: 1;
+margin-left: 50;
+margin-right: 50;
+width: 1400px;
+border-color:navy;
+}
+
+.HipHopT{
+margin-top: 5px;
+border-style: solid;
+border-right: none;
+border-left: none;
+border: 1;
+margin-left: 50;
+margin-right: 50;
+width: 1400px;
+border-color:navy;
+}
+
+.AsianT{
+margin-top: 20px;
+border-style: solid;
+border-right: none;
+border-left: none;
+border: 1;
+margin-left: 50;
+margin-right: 50;
+width: 1400px;
+border-color:navy;
+}
+
+
+
+
+
+.DisPop {
+position:absolute;
+margin-left: 100px;
+margin-top: 10px;
+display: inline-block;
+float: none;
+margin-bottom: 100px;
+
+
+}
+
+.DisPop h3{
+  color: black;
+}
+
+.DisClass{
+position:absolute;
+margin-left: 100px;
+margin-top: 10px;
+display: inline-block;
+float: none;
+margin-bottom: 100px;
+
+}
+
+.DisHip{
+position:absolute;
+margin-left: 100px;
+margin-top: 10px;
+display: inline-block;
+float: none;
+margin-bottom: 100px;
+}
+
+.DisAsian{
+position:absolute;
+margin-left: 100px;
+margin-top: 10px;
+display: inline-block;
+float: none;
+margin-bottom: 100px;
+}
+
+#Pop1{
+height: 300px;
+margin-left: -1px;
+width: 700px;
+margin-top: 8px;
+}
+
+#CM1{
+margin-left:2px;
+height: 300px;
+width: 700px;
+margin-top: 8px;
+}
+
+
+
+
+#HHM1{
+margin-left: -1px;
+height: 300px;
+margin-left: -10px;
+width: 700px;
+}
+
+
+
+#AM1{
+
+height: 300px;
+margin-left: 2px;
+width: 700px;
+margin-top: 10px;
+}

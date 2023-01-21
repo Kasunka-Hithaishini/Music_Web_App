@@ -1,4 +1,4 @@
-
+<router-outlet>
 <p>song-page works!</p>
 
 <div  class="Mp4">
@@ -31,7 +31,9 @@
 
 </div>
 <form id="btn">
-    <input type="button" value="Enter" onclick="MyFunction()">
+    <!--<input type="button" value="Enter" onclick="MyFunction()">-->
+    <button (click)="CallMyFunction()">Enter</button>
+
 </form>
 
 <form id="btn2">
@@ -60,7 +62,7 @@
 <!--From mp3-> Play button  Download button-->
 
 
-
+</router-outlet>
 
 
 
